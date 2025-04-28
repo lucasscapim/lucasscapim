@@ -12,7 +12,7 @@ Atualmente, estou focado nos meus estudos na área de **back-end**. Estou aprend
   <a href="https://icons8.com/icon/20906/git" target="_blank"><img title="Git" height="40" src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://img.icons8.com/color/344/mysql-logo.png" target="_blank"><img title="MySql" width="40" src="https://img.icons8.com/color/344/mysql-logo.png" width="48px" /></a>
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasscapim&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasscapim&show_icons=true&theme=dark" />
 <!--
 **lucasscapim/lucasscapim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
