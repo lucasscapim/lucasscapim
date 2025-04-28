@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá! Eu sou Lucas Alves Scapim 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasscapim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscapim&layout=compact)
+
 <p align="left"> 
   <a href="https://icons8.com/icon/20909/html-5" target="_blank"><img title="HTML" height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
   <a href="https://icons8.com/icon/21278/css3" target="_blank"><img title="CSS" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
