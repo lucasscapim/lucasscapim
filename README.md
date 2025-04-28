@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Olá!+👋+Eu+Sou+Lucas+Scapim;Bem-Vindo+Ao+Meu+Perfil!;">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Olá!+👋+Eu+Sou+Lucas+Scapim;Seja+Bem+Vindo+Ao+Meu+Perfil!;">
 
 - ## Sobre Mim
 
