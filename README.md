@@ -12,7 +12,6 @@ Me chamo **Lucas Scapim**, e atualmente estou focado exclusivamente no estudo da
   <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank"><img title="Node.js" width="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" /></a> 
   <a href="https://icons8.com/icon/20906/git" target="_blank"><img title="Git" height="40" src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://img.icons8.com/color/344/mysql-logo.png" target="_blank"><img title="MySql" width="40" src="https://icons8.com/icons/set/mysql-logo" width="48px" /></a>
-  <a href="https://img.icons8.com/color/344/mysql-logo.png" target="_blank"><img title="MySql" width="40" src="https://icons8.com/icons/set/prisma-orm" width="48px" /></a>
 </p>
 <!--
 ## Estatísticas:
