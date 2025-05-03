@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Me chamo **Lucas Scapim**, e atualmente estou focado exclusivamente no estudo da programação. Tenho como objetivo me tornar um **full-stack**, porém meu foco no momento está voltado para o **back-end**. Possuo conhecimento em **JavaScript**, **Node.js**, **HTML**, **CSS**, **Prisma ORM**, **Fastify**, **MySQL** e **MongoDB**, e continuo buscando aprimorar minhas habilidades para aplicar em projetos reais.
+Me chamo **Lucas Scapim**, e atualmente estou focado exclusivamente no estudo da programação. Tenho como objetivo me tornar um **full-stack**, porém meu foco no momento está voltado para o **back-end**. Possuo conhecimento em **JavaScript**, **Node.js**, **HTML**, **CSS**, **MySQL** e **MongoDB**, e continuo buscando aprimorar minhas habilidades para aplicar em projetos reais.
 
 ## Linguagens e Frameworks:
 <p align="left"> 
